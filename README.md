@@ -1,4 +1,4 @@
-# ¡Hola! Soy Miguel 👋
+# ¡Hola! Soy MGueL-CR 👋
 
 Un apasionado del **Desarrollo Software** enfocado actualmente en el ecosistema **Frontend**, pero con sólidas bases y un gran gusto por la lógica del **Backend**. Me encanta automatizar procesos, resolver bugs del sistema y explorar la arquitectura de software.
 
@@ -13,23 +13,7 @@ Un apasionado del **Desarrollo Software** enfocado actualmente en el ecosistema 
 
 ---
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=MGueL-CR&hide_border=true&short_numbers=true&mode=weekly&card_width=1024&card_height=360)](https://git.io/streak-stats)
-
----
-
-### 🛠️ Tecnologías y Herramientas
-
-#### 🧠 Lenguajes Core
-
-![JavaScript](https://shields.io)
-![C#](https://shields.io)
-![Java](https://shields.io)
-![PowerShell](https://shields.io)
-
-#### 🌐 Frameworks & Librerías
-
-![Angular](https://shields.io)
-![React](https://shields.io)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=MGueL-CR&theme=transparent&hide_border=true&locale=es&short_numbers=true&mode=weekly)](https://git.io/streak-stats)
 
 ---
 
@@ -60,13 +44,23 @@ Aquí puedes ver el ecosistema de código abierto que mantengo activamente, adem
 
 ---
 
+### 🛠️ Tecnologías y Herramientas
+
+#### 🧠 Lenguajes Core
+
+![JavaScript](https://shields.io)
+![C#](https://shields.io)
+![Java](https://shields.io)
+![PowerShell](https://shields.io)
+
+#### 🌐 Frameworks & Librerías
+
+![Angular](https://shields.io)
+![React](https://shields.io)
+
+---
+
 ### 📬 Conéctate conmigo
 
 [![LinkedIn](https://shields.io)](www.linkedin.com/in/mguel-dev)
 [![Email: miguel.dev](https://shields.io)](mailto:mguel.dev@proton.me)
-
-<p align="center">
-  <img src="/assets/header.svg" width="100%" alt="Miguel Perfil Banner" />
-</p>
-
-<!-- El resto de tu README de tecnologías y proyectos sigue aquí abajo exactamente igual -->
