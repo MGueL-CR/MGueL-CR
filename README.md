@@ -54,17 +54,12 @@ Aquí puedes ver el ecosistema de código abierto que mantengo activamente, adem
 
 ### 🛠️ Tecnologías y Herramientas
 
-#### 🧠 Lenguajes Core
-
-![JavaScript](https://shields.io)
-![C#](https://shields.io)
-![Java](https://shields.io)
-![PowerShell](https://shields.io)
-
-#### 🌐 Frameworks & Librerías
-
-![Angular](https://shields.io)
-![React](https://shields.io)
+| 🧠 Lenguajes Core | 🌐 Frameworks & Librerías |
+| :---: | :---: |
+| ![JavaScript](https://shields.io) | ![Angular](https://shields.io) |
+| ![C#](https://shields.io) | ![React](https://shields.io) |
+| ![Java](https://shields.io) |  |
+| ![PowerShell](https://shields.io) |  |
 
 ---
 
